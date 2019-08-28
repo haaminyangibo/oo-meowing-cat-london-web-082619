@@ -5,7 +5,7 @@ attr_accessor :name
 
 attr_accessor :meow
 
-
+  def
 
 maru.meow = "meow!"
 
